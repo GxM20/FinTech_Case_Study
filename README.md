@@ -1,6 +1,6 @@
-# Chime: Banking in the Cloud
-
 ![Chime logo](https://www.business.org/app/uploads/2022/08/Chime-logo-300x86.png)
+
+# Banking in the Cloud
 
 ## Off to a Hot Start
 
