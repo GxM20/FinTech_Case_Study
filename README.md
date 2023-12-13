@@ -12,15 +12,23 @@ In many ways, Chime is challenging the idea of traditional banking. Unlike bigge
 
 Another way Chime is challenging traditional banking is its lack of physical branches. Chime has always been a mobile first, web-based banking service, offering all of their services at the convenience of the user's cellphone or computer. This may be a turn off for customers who preferred to make deposits, withdrawals, and apply for loans by speaking with a representative, but those customers aren't necessarily in Chime's targeted demographic. Indeed the target demographic skews younger than most other banks, specifically targeting Millenials and GenZ. According to [Forbes.com](https://www.forbes.com/sites/ronshevlin/2022/05/16/2022-online-bank-ranking-chime-at-the-top-current-coming-on-strong/?sh=7d099ae81573), more than 25% of GenZ and nearly 33% of Millenials use a digital bank as their primary provider. It is no secret that younger generations prefer online services for most things and banking has proved to be no exception. Chime may have been ahead of the curve when it launched in 2014, but now in 2023 they have a proven record of accountability as more and more customers consider making the switch to digital banking.
 
-### Market Size Projection
+### Market Size
 
 "Neobanking" is the term for the market in which Chime operates. This industry includes digital financial institutions operating solely online. The last decade has seen a steady increase in the neobanking industry's market size. In [2021](https://research.contrary.com/reports/chime), the market size was over $45 billion, in [2022](https://www.grandviewresearch.com/industry-analysis/neobanking-market) it exceeded $66 billion and by 2028 it is expected to reach $600 billion. Clearly there is plenty of room for Chime to continue to grow at a staggering rate, despite its already lucrative start. 
 
 ### Challengers
 
+Given the rapidly expanding market size of neobanking, hundred of companies are trying to claim their piece of the pie, just like Chime. Specifically Current, SoFi, and Cash App offer similiar banking products and financial services.
+
+#### Current
+
+Current offers similar products as Chime, such as no-fee accounts, early paycheck withdrawal, and automated savings. However, Current also offers crytocurrency trading and accounts specialized for teenagers. With an average customer age of 27, Current and Chime are certainly vying for their piece of neobanking market.
+
+#### SoFi
+
+SoFi is another major player in the neobanking market. Founded in 2011, before Chime, SoFi offers a variety of tools for investing, spending, saving, and borrowing, all on its app. This makes SoFi one of the most comprehensive and well established digital banking companies in the market today. With a net revenue of $1.5 billion in 2022 and an expected net revenue of [$2 billion](https://finance.yahoo.com/news/sofi-technologies-inc-sofi-reports-124021425.html#:~:text=Outlook%20and%20Guidance,of%20%24333%20to%20%24343%20million.) in 2023, SoFi and Chime have been jostling for positioning in an expanding market for years.
 
 
-Intended customers? Customer market size?
 
 What solutions does company offer that others do not?
 
