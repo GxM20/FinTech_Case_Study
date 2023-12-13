@@ -32,7 +32,7 @@ SoFi is another major player in the neobanking market. Founded in 2011, before C
 
 #### Cash App
 
-Cash App started in 2013 as a peer-to-peer payment platform, like Paypal or venmo. It has since expanded into digital banking, trading, and tax filing. Cash App now offers many of the same services as Chime, including fee-free checking, automated savings, and loan options. However, Cash App is not a bank, it is a [financial platform](https://www.forbes.com/advisor/money-transfer/what-is-cash-app/). Cash App partners with [these](https://www.androidauthority.com/what-bank-is-cash-app-3333765/) banks to provide services and insure user funds.
+Cash App started in 2013 as a peer-to-peer payment platform, like Paypal or venmo. It has since expanded into digital banking, trading, and tax filing. Cash App now offers many of the same services as Chime, including fee-free checking, automated savings, and loan options. However, Cash App is not a bank, it is a [financial platform](https://www.forbes.com/advisor/money-transfer/what-is-cash-app/). Cash App partners with [these](https://www.google.com/search?q=who+are+cash+apps+bank+partners&rlz=1C5CHFA_enUS963US963&oq=who+are+cash+apps+ban&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEINTY3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8) banks to provide services and insure user funds.
 
 
 ## Landscape
