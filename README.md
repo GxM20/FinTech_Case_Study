@@ -15,11 +15,17 @@ Another way Chime is challenging traditional banking is its lack of physical bra
 ## Product Spotlight
 
 One of Chime's most unique products is its [Credit Builder Card](https://www.chime.com/apply-credit-gb/?keyword=chime%20credit%20card&ad=g_72620220415_cb-dd&gad_source=1&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1OusVQPMrVrZxlN_LjIKUQDbcZGyfefIirZh-2YWx-UwmQ9S-hkRoaAk4hEALw_wcB). This is not your average credit card, in some ways it closer resembles a debit card. Heres how it works:
+    
     - Customers make a deposit greater than $200 in their checking account and can then apply for a credit builder card.
+    
     - Chime does not run a credit report and has no minimum score for approval.
+   
     - Customers can then transfer money into their credit builder account whenever they want.
+   
     - However much the customer transfers into their account becomes their spending limit for the month.
+   
     - At the end of the month, that money is used to cover purchases made during that month.
+   
     - Chime reports this activity to the credit bureaus, establishing on time payments and credit history.
 
 So in a sense, the customer is borrowing from themselves, which is not for everyone, but for customers with no credit or bad credit, it can be a great place to start.
