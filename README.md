@@ -52,7 +52,7 @@ Another major trend in the neobanking market is the rise of Embedded Finance. Ac
 
 No matter which way you spin it, Chime has been a massive success since its launch. They've welcomes over 15 million new customers since 2019, raised over $2 billion in funding since launch, and are estimated to reach over $3 billion in revenue in 2023. As the FinTech industry and neobanking market continue to develop over the next decade, Chime is positioned well to capitalize and grow whatever the circumstances may be. 
 
-![User Growth](https://prioridata.com/data/chime-statistics/)
+![User Growth](https://prioridata.com/wp-content/uploads/2023/09/Chime-users-1-1024x576.png)
 
 ## Recommendations
 
