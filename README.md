@@ -14,23 +14,23 @@ Another way Chime is challenging traditional banking is its lack of physical bra
 
 What tech do they implement and how? (Research company engineering blog and/or slackshare)
 
-## Market Size and Challengers
+## Market Size
 
 "Neobanking" is the term for the market in which Chime operates. This industry includes digital financial institutions operating solely online. The last decade has seen a steady increase in the neobanking industry's market size. In [2021](https://research.contrary.com/reports/chime), the market size was over $45 billion, in [2022](https://www.grandviewresearch.com/industry-analysis/neobanking-market) it exceeded $66 billion and by 2028 it is expected to reach $600 billion. Clearly there is plenty of room for Chime to continue to grow at a staggering rate, despite its already lucrative start. 
 
-### Challengers
+## Challengers
 
 Given the rapidly expanding market size of neobanking, hundred of companies are trying to claim their piece of the pie, just like Chime. Specifically Current, SoFi, and Cash App offer similiar banking products and financial services.
 
-#### Current
+### *Current*
 
 Current offers similar products as Chime, such as no-fee accounts, early paycheck withdrawal, and automated savings. However, Current also offers crytocurrency trading and accounts specialized for teenagers. With an average customer age of 27, Current and Chime are certainly vying for their piece of neobanking market.
 
-#### SoFi
+### *SoFi*
 
 SoFi is another major player in the neobanking market. Founded in 2011, before Chime, SoFi offers a variety of tools for investing, spending, saving, and borrowing, all on its app. This makes SoFi one of the most comprehensive and well established digital banking companies in the market today. With a net revenue of $1.5 billion in 2022 and an expected net revenue of [$2 billion](https://finance.yahoo.com/news/sofi-technologies-inc-sofi-reports-124021425.html#:~:text=Outlook%20and%20Guidance,of%20%24333%20to%20%24343%20million.) in 2023, SoFi and Chime have been jostling for positioning in an expanding market for years.
 
-#### Cash App
+### *Cash App*
 
 Cash App started in 2013 as a peer-to-peer payment platform, similar to Paypal or venmo. It has since expanded into digital banking, trading, and tax filing. Cash App now offers some of the same services as Chime, including fee-free checking, automated savings, and loan options. However, Cash App has historically prioritized peer-to-peer transfers, leaving them a step behind Chime's established reputation in the digital banking field specifically.
 
@@ -41,11 +41,7 @@ Chime, and its competitors, operate under the FinTech domain in the noebanking m
 
 ### Consolidation
 
-FinTech in general is a relatively new market, [Simple](https://www.finextra.com/newsarticle/37234/simple-shuts-down) was the first neobank to emerge back in 2009. They closed their doors in 2021 when their parent firm BBVA was aquired by PNC. Over the last decade, many neobank startups have been forced to close their doors due to frequent regulatory changes as the market evolves and takes shape. The waters may not be as choppy as they have been historically, but the bigger [fish](https://www.google.com/search?q=biggest+neobanks&sca_esv=590654907&rlz=1C5CHFA_enUS963US963&ei=8hd6ZaeaNLLfkPIP7-KTiAY&ved=0ahUKEwin27X_o42DAxWyL0QIHW_xBGEQ4dUDCBE&uact=5&oq=biggest+neobanks&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGJpZ2dlc3QgbmVvYmFua3MyCxAAGIAEGIoFGJECMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDSI0FUABYAHAAeAGQAQCYAbIBoAGyAaoBAzAuMbgBA8gBAPgBAeIDBBgAIEGIBgE&sclient=gws-wiz-serp) who have weathered the storm up to now, are financially situated to aqcuire the younger players and support their revenue streams. Since its launch, Chime as acquired [two](https://www.crunchbase.com/search/acquisitions/field/organization.companies/num_acquisitions/chime-2) companies: [Pinch](https://www.crunchbase.com/organization/ferment-labs), and [Charlie Finance Co.](https://www.crunchbase.com/organization/ferment-labs)
-
-What are the major trends in this domain in the last 5-10 years?
-
-Who are other companies in domain?
+FinTech in general is a relatively new market, [Simple](https://www.finextra.com/newsarticle/37234/simple-shuts-down) was the first neobank to emerge back in 2009. They closed their doors in 2021 when their parent firm BBVA was aquired by PNC. Over the last decade, many neobank startups have been forced to close their doors due to frequent regulatory changes as the market evolves and takes shape. The waters may not be as choppy as they have been historically, but the bigger [fish](https://www.google.com/search?q=biggest+neobanks&sca_esv=590654907&rlz=1C5CHFA_enUS963US963&ei=8hd6ZaeaNLLfkPIP7-KTiAY&ved=0ahUKEwin27X_o42DAxWyL0QIHW_xBGEQ4dUDCBE&uact=5&oq=biggest+neobanks&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGJpZ2dlc3QgbmVvYmFua3MyCxAAGIAEGIoFGJECMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDSI0FUABYAHAAeAGQAQCYAbIBoAGyAaoBAzAuMbgBA8gBAPgBAeIDBBgAIEGIBgE&sclient=gws-wiz-serp) who have weathered the storm up to now, are financially situated to aqcuire the younger players and support their revenue streams. Since its launch, Chime as acquired [two](https://www.crunchbase.com/search/acquisitions/field/organization.companies/num_acquisitions/chime-2) companies: [Pinch](https://www.crunchbase.com/organization/ferment-labs), and [Charlie Finance Co.](https://www.crunchbase.com/organization/ferment-labs).
 
 
 ## Results
