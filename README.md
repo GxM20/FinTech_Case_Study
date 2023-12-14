@@ -68,7 +68,26 @@ No matter which way you spin it, Chime has been a massive success since its laun
 [Source](https://prioridata.com/data/chime-statistics/)
 
 
-[Resources](Resources)
+## Sources
+
+[Tracxn.com/chime](https://tracxn.com/d/companies/chime/__wN_29a66OuJnVO8CybgtKmYXjwL5IX7QjQw65EY4QIg#:~:text=Funding%20and%20Investors%20of%20Chime&text=Chime%20has%20raised%20a%20total%20funding%20of%20%242.09B%20over%208%20rounds.)
+[bankrate.com/paycheck-paycheck](https://www.bankrate.com/finance/credit-cards/living-paycheck-to-paycheck-statistics/) 
+[Forbes.com](https://www.forbes.com/sites/ronshevlin/2022/05/16/)2022-online-bank-ranking-chime-at-the-top-current-coming-on-strong/?sh=7d099ae81573)
+[Chime.com](https://www.chime.com/apply-credit-gb/?keyword=chime%20credit%20card&ad=g_72620220415_cb-dd&gad_source=1&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1OusVQPMrVrZxlN_LjIKUQDbcZGyfefIirZh-2YWx-UwmQ9S-hkRoaAk4hEALw_wcB)
+[Forbes.com/advisor](https://www.forbes.com/advisor/credit-cards/things-to-know-about-the-chime-credit-builder-visa-secured-credit-card/#:~:text=The%20Secured%20Chime%20Credit%20Builder,technology%20company%2C%20not%20a%20bank.)
+[Research.contrary.com](https://research.contrary.com/reports/chime)
+[Grandviewresearch.com](https://www.grandviewresearch.com/industry-analysis/neobanking-market)
+[Finance.yahoo.com](https://finance.yahoo.com/news/sofi-technologies-inc-sofi-reports-124021425.html#:~:text=Outlook%20and%20Guidance,of%20%24333%20to%20%24343%20million.)
+[Finextra.com](https://www.finextra.com/newsarticle/37234/simple-shuts-down)
+[Forbes.com/consolidation](https://www.forbes.com/sites/sarahkocianski/2023/01/17/where-will-2023s-fintech-ma-happen/?sh=515115b35afc)
+[Google.com/neobanks](https://www.google.com/search?q=biggest+neobanks&sca_esv=590654907&rlz=1C5CHFA_enUS963US963&ei=8hd6ZaeaNLLfkPIP7-KTiAY&ved=0ahUKEwin27X_o42DAxWyL0QIHW_xBGEQ4dUDCBE&uact=5&oq=biggest+neobanks&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGJpZ2dlc3QgbmVvYmFua3MyCxAAGIAEGIoFGJECMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDSI0FUABYAHAAeAGQAQCYAbIBoAGyAaoBAzAuMbgBA8gBAPgBAeIDBBgAIEGIBgE&sclient=gws-wiz-serp)
+[Crunchbase.com/acquisitions](https://www.crunchbase.com/search/acquisitions/field/organization.companies/num_acquisitions/chime-2)
+[Crunchbase.com/pinch](https://www.crunchbase.com/organization/ferment-labs)
+[Crunchbase.com/Charlie_finance](https://www.crunchbase.com/organization/charlie-91e1)
+[Forbes.com/embedded_finance](https://www.forbes.com/sites/forbestechcouncil/2023/05/31/why-niche-financial-services-could-be-the-next-embedded-finance-trend/?sh=1314ef5a6b61)
+[Chime.com/credit_builder](https://www.chime.com/credit-builder/)
+[techcrunch.com/chime_valuation](https://techcrunch.com/2020/06/30/u-s-challenger-bank-chime-launches-credit-builder-a-credit-card-that-works-more-like-debit/)
+[Prioridata.com/chime_stats](https://prioridata.com/data/chime-statistics/)
 
 
 
