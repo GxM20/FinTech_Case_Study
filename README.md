@@ -22,15 +22,15 @@ What tech do they implement and how? (Research company engineering blog and/or s
 
 Given the rapidly expanding market size of neobanking, hundred of companies are trying to claim their piece of the pie, just like Chime. Specifically Current, SoFi, and Cash App offer similiar banking products and financial services.
 
-### *Current*
+#### *Current*
 
 Current offers similar products as Chime, such as no-fee accounts, early paycheck withdrawal, and automated savings. However, Current also offers crytocurrency trading and accounts specialized for teenagers. With an average customer age of 27, Current and Chime are certainly vying for their piece of neobanking market.
 
-### *SoFi*
+#### *SoFi*
 
 SoFi is another major player in the neobanking market. Founded in 2011, before Chime, SoFi offers a variety of tools for investing, spending, saving, and borrowing, all on its app. This makes SoFi one of the most comprehensive and well established digital banking companies in the market today. With a net revenue of $1.5 billion in 2022 and an expected net revenue of [$2 billion](https://finance.yahoo.com/news/sofi-technologies-inc-sofi-reports-124021425.html#:~:text=Outlook%20and%20Guidance,of%20%24333%20to%20%24343%20million.) in 2023, SoFi and Chime have been jostling for positioning in an expanding market for years.
 
-### *Cash App*
+#### *Cash App*
 
 Cash App started in 2013 as a peer-to-peer payment platform, similar to Paypal or venmo. It has since expanded into digital banking, trading, and tax filing. Cash App now offers some of the same services as Chime, including fee-free checking, automated savings, and loan options. However, Cash App has historically prioritized peer-to-peer transfers, leaving them a step behind Chime's established reputation in the digital banking field specifically.
 
