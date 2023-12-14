@@ -45,7 +45,7 @@ FinTech in general is a relatively new market, [Simple](https://www.finextra.com
 
 ### One Stop Shopping
 
-Another major trend in the neobanking market is the rise of Embedded Finance. According to [Forbes](https://www.forbes.com/sites/forbestechcouncil/2023/05/31/why-niche-financial-services-could-be-the-next-embedded-finance-trend/?sh=1314ef5a6b61), financial services embedded into embedded digital platforms will exceed $7 trillion by 2026. Above we discussed how both Current and SoFi have expanded to provide a more comprehensive suite of financial tools. SoFi especially is a market leader in providing its customers a one stop shop for all things banking, borrowing, and investing. Chime is not too far behind, since it launched its [credit builder](https://www.chime.com/credit-builder/) debit card, the valuation of Chime as risen over $19 billion, from [$5.8 billion](https://techcrunch.com/2020/06/30/u-s-challenger-bank-chime-launches-credit-builder-a-credit-card-that-works-more-like-debit/)in 2020, to [$25 billion](https://www.cnbc.com/2023/05/09/chime-disruptor-50.html) in 2023. 
+Another major trend in the neobanking market is the rise of Embedded Finance. According to [Forbes](https://www.forbes.com/sites/forbestechcouncil/2023/05/31/why-niche-financial-services-could-be-the-next-embedded-finance-trend/?sh=1314ef5a6b61), financial services embedded into embedded digital platforms will exceed $7 trillion by 2026. Above we discussed how both Current and SoFi have expanded to provide a more comprehensive suite of financial tools. SoFi especially is a market leader in providing its customers a one stop shop for all things banking, borrowing, and investing. Chime is not too far behind, since it launched its [credit builder](https://www.chime.com/credit-builder/) debit card, the valuation of Chime as risen over $19 billion, from [$5.8 billion](https://techcrunch.com/2020/06/30/u-s-challenger-bank-chime-launches-credit-builder-a-credit-card-that-works-more-like-debit/) in 2020, to [$25 billion](https://www.cnbc.com/2023/05/09/chime-disruptor-50.html) in 2023. Although Chime does not offer embedded investment services, yet, it is changing the way we think of credit with its credit builder card.
 
 
 ## Results
@@ -58,24 +58,12 @@ How do they perform relative to competitors?
 
 ## Recommendations
 
-What products/services would I suggest they offer?
-
-Would this product/service benefit the company?
-
-What tech would this product/service use?
-
-Why are these techs appropriate for my solution?
+Above we discussed some of the major trends in FinTech and neobanking. Consolidation is happening both on the companies side and the customer side; larger neobanks are buying up smaller competitors to supplement their revenue streams, and customers are consolidating their accounts and signing up with one companies that offer all the financial tools they need. My recommendation to Chime is to expand their platform to include embedded investment tools. This will make investing easy and convenient for their established customer base, and give other company's customers, like SoFi, another reason to consider making the switch. If the amount of money used in embedded financial services does reach $7 trillion by 2026, Chime would be leaving money on the table by not getting in the action.
 
 
-
-
-
-
-[Images](Images)
 
 [Resources](Resources)
 
-[Data](Data)
 
 
 
