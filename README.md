@@ -12,7 +12,9 @@ In many ways, Chime is challenging the idea of traditional banking. Unlike bigge
 
 Another way Chime is challenging traditional banking is its lack of physical branches. Chime has always been a mobile first, web-based banking service, offering all of their services at the convenience of the user's cellphone or computer. This may be off putting for customers who preferred to make deposits, withdrawals, and apply for loans by speaking with a representative, but those customers aren't necessarily in Chime's targeted demographic. Indeed the target demographic skews younger than most other banks, specifically targeting Millenials and GenZ. According to [Forbes.com](https://www.forbes.com/sites/ronshevlin/2022/05/16/2022-online-bank-ranking-chime-at-the-top-current-coming-on-strong/?sh=7d099ae81573), more than 25% of GenZ and nearly 33% of Millenials use a digital bank as their primary provider. It is no secret that younger generations prefer online services for most things and banking has proved to be no exception. Chime may have been ahead of the curve when it launched in 2014, but now in 2023 they have a proven record of accountability as more and more customers consider making the switch to digital banking.
 
-What tech do they implement and how? (Research company engineering blog and/or slackshare)
+## Product Spotlight
+
+One of Chime's most unique products is its [Credit Builder Card]()
 
 ## Market Size
 
@@ -50,7 +52,7 @@ Another major trend in the neobanking market is the rise of Embedded Finance. Ac
 
 ## Results
 
-No matter which way you spin it, Chime has been a massive success since its launch. They've welcomes over 15 million new customers since 2019, raised over $2 billion in funding since launch, and are estimated to reach over $3 billion in revenue in 2023. As the FinTech industry and neobanking market continue to develop over the next decade, Chime is positioned well to capitalize and grow whatever the circumstances may be. 
+No matter which way you spin it, Chime has been a massive success since its launch. They've welcomes over 15 million new customers since 2019, raised over $2 billion in funding, and are estimated to reach over $3 billion in revenue in 2023. As the FinTech industry and neobanking market continue to develop over the next decade, Chime is positioned well to capitalize and grow whatever the circumstances may be. 
 
 ![User Growth](https://prioridata.com/wp-content/uploads/2023/09/Chime-users-1-1024x576.png)
 [Source](https://prioridata.com/data/chime-statistics/)
