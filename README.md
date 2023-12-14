@@ -45,7 +45,7 @@ FinTech in general is a relatively new market, [Simple](https://www.finextra.com
 
 ### One Stop Shopping
 
-Another major trend in the neobanking market is the rise of Embedded Finance. According to [Forbes](https://www.forbes.com/sites/forbestechcouncil/2023/05/31/why-niche-financial-services-could-be-the-next-embedded-finance-trend/?sh=1314ef5a6b61), financial services embedded into embedded digital platforms will exceed $7 trillion by 2026.
+Another major trend in the neobanking market is the rise of Embedded Finance. According to [Forbes](https://www.forbes.com/sites/forbestechcouncil/2023/05/31/why-niche-financial-services-could-be-the-next-embedded-finance-trend/?sh=1314ef5a6b61), financial services embedded into embedded digital platforms will exceed $7 trillion by 2026. Above we discussed how both Current and SoFi have expanded to provide a more comprehensive suite of financial tools. SoFi especially is a market leader in providing its customers a one stop shop for all things banking, borrowing, and investing. Chime is not too far behind, since it launched its [credit builder](https://www.chime.com/credit-builder/) debit card, the valuation of Chime as risen over $19 billion, from [$5.8 billion](https://techcrunch.com/2020/06/30/u-s-challenger-bank-chime-launches-credit-builder-a-credit-card-that-works-more-like-debit/)in 2020, to [$25 billion](https://www.cnbc.com/2023/05/09/chime-disruptor-50.html) in 2023. 
 
 
 ## Results
