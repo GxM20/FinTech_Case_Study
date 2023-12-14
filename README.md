@@ -35,7 +35,7 @@ Given the rapidly expanding market size of neobanking, hundred of companies are 
 
 #### *Current*
 
-Current offers similar products as Chime, such as no-fee accounts, early paycheck withdrawal, and automated savings. However, Current also offers crytocurrency trading and accounts specialized for teenagers. With an average customer age of 27, Current and Chime are certainly vying for their piece of neobanking market.
+Current offers similar products as Chime, such as no-fee accounts, early paycheck withdrawal, and automated savings. However, Current also offers crytocurrency trading and accounts specialized for teenagers. With an average customer age of 27, Current and Chime are certainly vying for their piece of neobanking market. 
 
 #### *SoFi*
 
@@ -44,6 +44,8 @@ SoFi is another major player in the neobanking market. Founded in 2011, before C
 #### *Cash App*
 
 Cash App started in 2013 as a peer-to-peer payment platform, similar to Paypal or venmo. It has since expanded into digital banking, trading, and tax filing. Cash App now offers some of the same services as Chime, including fee-free checking, automated savings, and loan options. However, Cash App has historically prioritized peer-to-peer transfers, leaving them a step behind Chime's established reputation in the digital banking field specifically.
+
+[Source](https://research.contrary.com/reports/chime)
 
 
 ## Market Trends
@@ -60,11 +62,11 @@ Another major trend in the neobanking market is the rise of Embedded Finance. Ac
 
 ## Recommendations
 
-Above we discussed some of the major trends in FinTech and neobanking. Consolidation is happening both on the companies side and the customer side; larger neobanks are buying up smaller competitors to supplement their revenue streams, and customers are consolidating their accounts and signing up with one companies that offer all the financial tools they need. My recommendation to Chime is to expand their platform to include embedded investment tools. This will make investing easy and convenient for their established customer base, and give other company's customers, like SoFi, another reason to consider making the switch. If the amount of money used in embedded financial services does reach $7 trillion by 2026, Chime would be leaving money on the table by not getting in the action.
+Above we touched on the major trends in FinTech and neobanking. Consolidation is happening both on the companies side and the customer side; larger neobanks are buying up smaller competitors to supplement their revenue streams, and customers are consolidating their accounts and signing up with one companies that offer all the financial tools they need. My recommendation to Chime is to expand their platform to include embedded investment tools. This will make investing easy and convenient for their established customer base, and give other company's customers, like SoFi, another reason to consider making the switch. If the amount of money used in embedded financial services does reach $7 trillion by 2026, Chime would be leaving money on the table by not getting involved.
 
 ## Results
 
-No matter which way you spin it, Chime has been a massive success since its launch. They've welcomes over 15 million new customers since 2019, raised over $2 billion in funding, and are estimated to reach over $3 billion in revenue in 2023. As the FinTech industry and neobanking market continue to develop over the next decade, Chime is positioned well to capitalize and grow whatever the circumstances may be. 
+No matter which way you spin it, Chime has been a massive success since its launch. They've welcomes over 15 million new customers since 2019, raised over $2 billion in funding, and are estimated to reach over $3 billion in revenue in 2023. As the FinTech industry and neobanking market continue to develop over the next decade, Chime is positioned well to continue to capitalize and grow. 
 [Source](https://prioridata.com/data/chime-statistics/)
 
 
