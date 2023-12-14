@@ -14,7 +14,7 @@ Another way Chime is challenging traditional banking is its lack of physical bra
 
 ## Product Spotlight
 
-One of Chime's most unique products is its [Credit Builder Card](https://www.chime.com/apply-credit-gb/?keyword=chime%20credit%20card&ad=g_72620220415_cb-dd&gad_source=1&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1OusVQPMrVrZxlN_LjIKUQDbcZGyfefIirZh-2YWx-UwmQ9S-hkRoaAk4hEALw_wcB). This is not your average credit card, in some ways it closer resembles a debit card. Heres how it works:
+One of Chime's most unique products is its [credit builder card](https://www.chime.com/apply-credit-gb/?keyword=chime%20credit%20card&ad=g_72620220415_cb-dd&gad_source=1&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1OusVQPMrVrZxlN_LjIKUQDbcZGyfefIirZh-2YWx-UwmQ9S-hkRoaAk4hEALw_wcB). This is not like other credit card, heres how it works:
     
 1. Customers make a deposit greater than $200 in their checking account and can then apply for a credit builder card.
 2. Chime does not run a credit report and has no minimum score for approval.
@@ -23,7 +23,7 @@ One of Chime's most unique products is its [Credit Builder Card](https://www.chi
 5. At the end of the month, that money is used to cover purchases made during that month.
 6. Chime reports this activity to the credit bureaus, establishing on time payments and credit history.
 
-So in a sense, the customer is borrowing from themselves, which is not for everyone, but for customers with no credit or bad credit, it can be a great place to start.
+So in a sense, the customer is borrowing from themselves, which is not for everyone, but for customers with no credit or bad credit, it can be a great place to start. [Source](https://www.forbes.com/advisor/credit-cards/things-to-know-about-the-chime-credit-builder-visa-secured-credit-card/#:~:text=The%20Secured%20Chime%20Credit%20Builder,technology%20company%2C%20not%20a%20bank.)
 
 ## Market Size
 
